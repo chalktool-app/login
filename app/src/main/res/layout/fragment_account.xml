@@ -5,9 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".AccountFragment">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_account_fragment" />
+    <include layout="@layout/content_account" />
 
 </FrameLayout>
