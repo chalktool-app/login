@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_home_fragment">Hello Home fragment</string>
+
+    <string name="hello_attendance_fragment">Hello Attendance fragment</string>
+
+    <string name="hello_account_fragment">Hello Account fragment</string>
+
+    <string name="title_attendance">Attendance</string>
+    <string name="title_account">Account</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
