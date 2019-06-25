@@ -1,4 +1,4 @@
-package in.chalktool.login;
+package in.chalktool.auth;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("in.chalktool.login", appContext.getPackageName());
+        assertEquals("in.chalktool.auth", appContext.getPackageName());
     }
 }

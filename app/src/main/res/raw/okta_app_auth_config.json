@@ -1,0 +1,11 @@
+{
+  "client_id": "0oark87i49o4hIMhS356",
+  "redirect_uri": "in.chalktool.auth:/callback",
+  "end_session_redirect_uri": "in.chalktool.auth:/logout",
+  "scopes": [
+    "openid",
+    "profile",
+    "offline_access"
+  ],
+  "issuer_uri": "https://dev-339342.okta.com/oauth2/auskwu60vdYML6Lr8356"
+}

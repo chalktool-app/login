@@ -103,4 +103,17 @@
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
     </string>
+    <string name="loading_initializing">Initializing</string>
+    <string name="loading_authorizing">Authorizing</string>
+    <string name="init_failure">Initialization failed</string>
+    <string name="auth_granted">Authorization granted</string>
+    <string name="auth_canceled">Authorization canceled</string>
+    <string name="token_failure_message">Encountered a token failure</string>
+    <string name="network_failure_message">Encountered a network failure</string>
+    <string name="title_app_name">Chalkboard</string>
+    <string name="login_text">Login</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="email_id">Email Id</string>
+    <string name="logout">Logout</string>
 </resources>

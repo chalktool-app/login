@@ -1,4 +1,4 @@
-package in.chalktool.login;
+package in.chalktool.auth;
 
 import android.os.Bundle;
 import android.view.MenuItem;

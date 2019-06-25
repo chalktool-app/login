@@ -1,4 +1,4 @@
-package in.chalktool.login;
+package in.chalktool.auth;
 
 import org.junit.Test;
 
